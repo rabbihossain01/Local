@@ -1,0 +1,26 @@
+input,button{
+    padding: 7px;
+    height: 40px;
+    text-transform: capitalize;
+}
+
+#isOutput {
+    text-transform: capitalize;
+}
+
+
+fieldset{
+    margin-bottom: 20px;
+}
+
+.container {
+    width: 900px;
+    text-align: center;
+    margin: auto;
+   
+}
+
+button{
+    padding: 10px 50px;
+    
+}
